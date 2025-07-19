@@ -1,7 +1,7 @@
 # MC-Modder-Masters-Jul14-Jul18-25
 Hello, families of these incredible Ninjas!
 
-Thank you so much for an awesome week of modding Minecraft! This was by far my favorite camp that I ran this summer and I cannot thank you all enough for the 
+Thank you so much for an awesome week of modding Minecraft! This was one of the best camps I ran this summer and I cannot thank you all enough for the 
 amazing work you all put in. I seriously hope you all continue to work on your mods and improve your coding skills even further... or maybe just continue
 to enjoy the fun of Minecraft!
 
